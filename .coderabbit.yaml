@@ -1,0 +1,6 @@
+language: en-US
+knowledge_base:
+  code_guidelines:
+    enabled: true
+    filePatterns:
+      - canary.txt
